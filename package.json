@@ -31,12 +31,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/timetravel-state.git"
+    "url": "git+https://github.com/zahidhasann88/timetravel-state.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/timetravel-state/issues"
+    "url": "https://github.com/zahidhasann88/timetravel-state/issues"
   },
-  "homepage": "https://github.com/yourusername/timetravel-state#readme",
+  "homepage": "https://github.com/zahidhasann88/timetravel-state#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.7",
