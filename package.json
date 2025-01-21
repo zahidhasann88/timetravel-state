@@ -1,6 +1,6 @@
 {
   "name": "timetravel-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Time travel state management library with undo/redo capabilities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
